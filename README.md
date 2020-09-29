@@ -1,6 +1,7 @@
 # Codecademy-SQL-Practice
 
 World Populations SQL Practice
+
 Overview
 This project is slightly different than others you have encountered thus far on Codecademy. Instead of a step-by-step tutorial, this project contains a series of open-ended requirements which describe the project you’ll be building. There are many possible ways to correctly fulfill all of these requirements, and you should expect to use the internet, Codecademy, and other resources when you encounter a problem that you cannot easily solve.
 
@@ -9,7 +10,7 @@ You’ll work with a dataset of world population by country data from recent yea
 
 1. In order to complete this project, you should have completed the Learn SQL Manipulation and Learn SQL Queries lessons.
 
-Project Requirements
+    Project Requirements
 
 2. In this project, you’ll answer questions using a database of world population by country.
 
@@ -25,9 +26,9 @@ Project Requirements
 
 3. The first query has already been written for you to answer the following question:
 
-  What years are covered by the dataset? (you can manually count the number of years returned).
-  
-  Continue adding your queries below the first one as you proceed.
+      What years are covered by the dataset? (you can manually count the number of years returned).
+
+      Continue adding your queries below the first one as you proceed.
 
 4. What is the largest population size for Gabon in this dataset?
 
@@ -39,4 +40,4 @@ Project Requirements
 
 8. What is the difference in population between 2000 and 2010 in Indonesia?
 
-Note: it’s okay to figure out the difference by hand after pulling the correct data.
+    Note: it’s okay to figure out the difference by hand after pulling the correct data.
